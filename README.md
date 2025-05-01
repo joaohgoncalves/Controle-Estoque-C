@@ -55,7 +55,7 @@ Certifique-se de ter o gcc instalado no seu sistema.
 
 ---
 
-📝 Observações
+## 📝 Observações
 Todos os dados são armazenados no arquivo produtos.txt.
 
 O sistema não utiliza banco de dados ou interface gráfica.
@@ -64,7 +64,7 @@ Ideal para fins didáticos e introdução à manipulação de arquivos em C.
 
 ---
 
-🧠 Créditos
+## 🧠 Créditos
 
 Desenvolvido por João Henrique Gonçalves 💻
 Projeto com fins educacionais para praticar programação estruturada em C.
