@@ -65,6 +65,7 @@ Ideal para fins didáticos e introdução à manipulação de arquivos em C.
 ---
 
 🧠 Créditos
+
 Desenvolvido por João Henrique Gonçalves 💻
 Projeto com fins educacionais para praticar programação estruturada em C.
 
