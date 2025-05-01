@@ -145,10 +145,5 @@ Essa é a tela de Perdas por Mês; aqui é onde você visualiza um gráfico most
 - Bootstrap - para desenvolvimento de componentes de interface.
 - jQuery - para facilitar requisições Ajax.
 
-## Rodando a aplicação
-1. Primeiro clone o repositório rodando `git clone https://github.com/ribeiromatheus/ControleEstoque` or `hub clone ribeiromatheus/ControleEstoque` - se você tem o **hub** instalado na sua máquina - no seu terminal favorito.
-2. Depois, mova o banco de dados na pasta **db** que está na raiz do diretório para a pasta **App_Data** dentro do projeto. (senão existir a pasta **App_Data** crie uma).
-3. Pronto, basta executar a aplicação.
-
 ## Licença
-Este projeto está sob licença do MIT. Veja a [Licença](https://github.com/ribeiromatheus/ControleEstoque/blob/master/LICENSE) para mais detalhes.
+Este projeto está sob licença do MIT.
