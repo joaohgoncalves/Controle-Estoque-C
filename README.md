@@ -28,7 +28,6 @@ Este projeto foi desenvolvido com foco educacional, para praticar conceitos de p
 - 📝 Editar dados de um produto  
 - ❌ Remover produto do estoque  
 - 📦 Verificar quantidade em estoque  
-- 💾 Salvamento automático em arquivo `produtos.txt`
 
 ---
 
@@ -52,15 +51,6 @@ gcc main.c estoque.c -o estoque
 ```
 
 Certifique-se de ter o gcc instalado no seu sistema.
-
----
-
-## 📝 Observações
-Todos os dados são armazenados no arquivo produtos.txt.
-
-O sistema não utiliza banco de dados ou interface gráfica.
-
-Ideal para fins didáticos e introdução à manipulação de arquivos em C.
 
 ---
 
